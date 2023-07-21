@@ -4,15 +4,15 @@ layout: default
 
 # Publications
 
-## Monographs
+## Conferences
 
 + Kornmesser, Stephan, Alexander Max Bauer, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski (forthcoming): _Experimental Philosophy for Beginners. A Gentle Introduction to Methods and Tools_. Cham: Springer.
 
-## Journals
+## Pre-Prints
 
 + Baratella, Nils, Alexander Max Bauer, Helena Esther Grass, and Stephan Kornmesser (eds.) (2022): “Verschwörungserzählungen”. Special issue, _Zeitschrift für Praktische Philosophie_ 9 (2). ([Link](https://www.praktische-philosophie.org/zfpp/issue/view/20/))
 
-## Contributions to Journals
+[## Contributions to Journals
 
 + Kornmesser, Stephan, and Alexander Max Bauer (forthcoming): “Austin in the Lab. Empirically Reconsidering the Constative–Performative Distinction”, _Topics in Linguistics_ 24 (2). (peer reviewed) ([Repository](https://github.com/alephmembeth/speech-constative-performative/))
 + Bauer, Alexander Max, and Stephan Kornmesser (forthcoming): “Poisoned Babies, Shot Fathers, and Ruined Experiments. Experimental Evidence in Favor of the Compositionality Constraint of Actual Causation”. _Philosophy of Science_. (peer reviewed) ([Link](https://www.cambridge.org/core/journals/philosophy-of-science/article/poisoned-babies-shot-fathers-and-ruined-experiments/4D0C683AF6A00F0BA2B2A0923256166F/)) ([Repository](https://github.com/alephmembeth/causality-compositionality))
@@ -78,4 +78,4 @@ layout: default
 ## Public Writings
 
 + Bauer, Alexander Max (2021): “The Revolver Case Revisited”. _xphiblog.com_. ([Link](https://xphiblog.com/revolver/))
-+ Bauer, Alexander Max (2020): “‘Was mache ich hier überhaupt?’. Experimentelle Philosophie zwischen Lehnstuhl und Labor”. _philosophie.ch_ and _praefaktisch.de_. ([Link](https://www.philosophie.ch/beitraege/highlights/was-mache-ich-hier-ueberhaupt)) ([Link](https://www.praefaktisch.de/experimentelle-philosophie/was-mache-ich-hier-ueberhaupt-experimentelle-philosophie-zwischen-lehnstuhl-und-labor/))
++ Bauer, Alexander Max (2020): “‘Was mache ich hier überhaupt?’. Experimentelle Philosophie zwischen Lehnstuhl und Labor”. _philosophie.ch_ and _praefaktisch.de_. ([Link](https://www.philosophie.ch/beitraege/highlights/was-mache-ich-hier-ueberhaupt)) ([Link](https://www.praefaktisch.de/experimentelle-philosophie/was-mache-ich-hier-ueberhaupt-experimentelle-philosophie-zwischen-lehnstuhl-und-labor/))] :#
