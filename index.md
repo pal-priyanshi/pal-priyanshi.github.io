@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello there! My name is Priyanshi and I am an incoming Master's student at Aalto University, majoring in Speech and Language Technologies under the Computer, Communication and Information Sciences program. Previosly, I worked at SPIRE Lab at the Indian Institute of Science, Bengaluru with Prof. Prasanta Kumar Ghosh and Prof. Chiranjeevi Yarra. 
+Hello there! My name is Priyanshi and I am an incoming Master's student at Aalto University, majoring in Speech and Language Technologies under the Computer, Communication and Information Sciences program. Previosly, I worked at SPIRE Lab at the Indian Institute of Science, Bengaluru with [Dr. Prasanta Kumar Ghosh](https://ee.iisc.ac.in/~prasantg/) and [Dr. Chiranjeevi Yarra](https://www.iiit.ac.in/people/faculty/Chiranjeeviyarra/). 
 If you want to know more about me, feel free to take a look at
 
 + my [education](./education.md),
