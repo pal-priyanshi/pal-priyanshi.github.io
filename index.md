@@ -7,7 +7,7 @@ If you want to know more about me, feel free to take a look at
 
 + my [education](./education.md),
 + my [employment](./employment.md),
-+ the [things I’ve written](./publications.md),
++ the [things I’ve written](./publications.md).
 
 [comment]: # (+ the [presentations I’ve held](./presentations.md),the [events I’ve organised](./events.md), the [courses I’ve taught](./teaching.md), the [grants and honours I’ve received](./financials.md), or my [services to the profession](./services.md).)
 
@@ -33,8 +33,7 @@ Most of this information can also be found bundled in my CV, of which you can fi
 # News
 
 [comment]: # (+ 23/06/2022: [“When heating in winter becomes a luxury”](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327) (University of Oldenburg))
-+ 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
-+ 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
++ 17/05/20223: Shelly Jain, Priyanshi Pal, Anil Vuppala, P. K. Ghosh, and Chiranjeevi Yarra, "An Investigation of Indian Native Language Phonemic Influences on L2 English Pronunciations", accepted in Interspeech 2023.
 
 <details>
 <summary>Old news</summary>
