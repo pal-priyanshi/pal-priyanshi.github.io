@@ -9,11 +9,7 @@ If you want to know more about me, feel free to take a look at
 + my [employment](./employment.md),
 + the [things I’ve written](./publications.md),
 
-[comment]: # (+ the [presentations I’ve held](./presentations.md),
-+ the [events I’ve organised](./events.md),
-+ the [courses I’ve taught](./teaching.md),
-+ the [grants and honours I’ve received](./financials.md), or
-+ my [services to the profession](./services.md).)
+[comment]: # (+ the [presentations I’ve held](./presentations.md),the [events I’ve organised](./events.md), the [courses I’ve taught](./teaching.md), the [grants and honours I’ve received](./financials.md), or my [services to the profession](./services.md).)
 
 Most of this information can also be found bundled in my CV, of which you can find the most recent version [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf).
 
