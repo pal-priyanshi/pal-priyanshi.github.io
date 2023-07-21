@@ -64,7 +64,7 @@ Most of this information can also be found bundled in my CV, of which you can fi
 
 # Projects
 
-The projects I’m currently working on include:
+The projects I’ve worked on, in the past, include:
 + my cumulative dissertation on need-based distributive justice (supervised by Mark Siebel)
 + a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
 + an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
