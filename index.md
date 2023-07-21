@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello there! My name is Priyanshi and I am an incoming Master's student at Aalto University, majoring in Speech and Language Technologies under the Computer, Communication and Information Sciences program. Previously, I worked at Signal Processing Interspretation and Representation Lab at the Indian Institute of Science, Bengaluru.
+Hello there! My name is Priyanshi and I am an incoming Master's student for fall 2023 at Aalto University. I will be majoring in Speech and Language Technologies under the Computer, Communication and Information Sciences program. Previously, I worked at Signal Processing Interspretation and Representation Lab at the Indian Institute of Science, Bengaluru.
 If you want to know more about me, feel free to take a look at
 
 + my [education](./education.md),
