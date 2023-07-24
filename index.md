@@ -65,7 +65,7 @@ The people with whom I had the pleasure to work or with whom I’m currently wor
 
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via <priyanshi.pal@aalto.fi>.
+If you want to get in touch, you can reach me at any time via <priyanshi.pal@aalto.fi>
 
 Some places on the internet where you can find me, including but not limited to:
 + [Google Scholar](https://scholar.google.com/citations?hl=en&user=wJH5MgoAAAAJ)
