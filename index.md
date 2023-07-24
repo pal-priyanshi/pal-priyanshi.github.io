@@ -49,9 +49,9 @@ Most of this information can also be found bundled in my CV, of which you can fi
 # Projects
 
 The projects I’ve worked on, in the past, include:
-+ my cumulative dissertation on need-based distributive justice (supervised by Mark Siebel)
-+ a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
-+ an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
++ voisTutor 2.0: Exploring the role of segmental and suprasegmental features in perceived overall pronuncioation quality (Data analysis on expert ratings of 7 binary factors indicating pronunciation quality, overall quality of pronunciation ratings along with phonetic transcriptions of speakers).
++ Characterisation of pronunciation variabilities in Indian English: Identified and analysed phonological features of Indian English. Also collaborated for the paper on Indian Native language influences on L2 English Pronunciations.
++ English Gyani: Worked on development of an App for language learning and assessment, targeted for Indian Learners. 
 
 * * *
 
