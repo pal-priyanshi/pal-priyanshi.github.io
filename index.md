@@ -11,7 +11,7 @@ If you want to know more about me, feel free to take a look at
 
 [comment]: # (+ the [presentations I’ve held](./presentations.md),the [events I’ve organised](./events.md), the [courses I’ve taught](./teaching.md), the [grants and honours I’ve received](./financials.md), or my [services to the profession](./services.md).)
 
-Most of this information can also be found bundled in my CV, of which you can find the most recent version [here](/assets/docs/CV___Priyanshi__22_July.pdf) (Last Updated- Aug 2023).
+Most of this information can also be found bundled in my CV, of which you can find the most recent version [here (Last Updated- Aug 2023)](/assets/docs/CV___Priyanshi__22_July.pdf).
 
 * * *
 
