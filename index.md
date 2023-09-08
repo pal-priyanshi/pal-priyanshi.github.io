@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello there! My name is Priyanshi and I am a Master's student at Aalto University. I will be majoring in Speech and Language Technologies under the Computer, Communication and Information Sciences (CCIS) program. Previously, I worked at Signal Processing Interpretation and Representation Lab at the Indian Institute of Science, Bengaluru.
+Hello there! My name is Priyanshi and I am a Master's student at Aalto University. I am majoring in Speech and Language Technologies under the Computer, Communication and Information Sciences (CCIS) program. Previously, I worked at Signal Processing Interpretation and Representation Lab at the Indian Institute of Science, Bengaluru.
 If you want to know more about me, feel free to take a look at
 
 + my [education](./education.md),
