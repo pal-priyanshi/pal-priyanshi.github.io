@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello there! My name is Priyanshi and I am an incoming Master's student for fall 2023 at Aalto University. I will be majoring in Speech and Language Technologies under the Computer, Communication and Information Sciences program. Previously, I worked at Signal Processing Interpretation and Representation Lab at the Indian Institute of Science, Bengaluru.
+Hello there! My name is Priyanshi and I am a Master's student at Aalto University. I will be majoring in Speech and Language Technologies under the Computer, Communication and Information Sciences (CCIS) program. Previously, I worked at Signal Processing Interpretation and Representation Lab at the Indian Institute of Science, Bengaluru.
 If you want to know more about me, feel free to take a look at
 
 + my [education](./education.md),
@@ -22,8 +22,8 @@ Most of this information can also be found bundled in my CV, of which you can fi
    <dt>Areas of Competence:</dt>
       <dd>Distributive Justice, Philosophy of Science</dd>
    -->
-   <dt>Areas of Interest:</dt>
-      <dd>Signal Processing, Machine Learning, Computational linguistics, Natural Language Processing, Machine Translation</dd>
+   <dt>Areas I'm interested in:</dt>
+      <dd>Speech Recognition, Signal Processing, Computational linguistics, Natural Language Processing, Machine Translation</dd>
    <dt>Tools of Choice:</dt>
       <dd>Python, LaTeX </dd>
 </dl>
@@ -32,7 +32,9 @@ Most of this information can also be found bundled in my CV, of which you can fi
 
 # News
 
++ 09/09/2023: Priyanshi Pal, Shelly Jain, Chiranjeevi Yarra, Prasanta Kumar Ghosh and Anil Vuppala, "Study of Indian English Pronunciation variabilities relative to Received Pronunciation", accepted in SPECOM-2023.
 + 17/05/2023: Shelly Jain, Priyanshi Pal, Anil Vuppala, P. K. Ghosh, and Chiranjeevi Yarra, "An Investigation of Indian Native Language Phonemic Influences on L2 English Pronunciations", accepted in Interspeech 2023.
++ 29/03/2023: Received a Finland Scholarship! 
 
 <details>
 <summary>Old news</summary>
